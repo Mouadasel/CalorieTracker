@@ -6,10 +6,13 @@
   justify-content: space-around;
   align-items: center;
   height: 40px;
-  padding: 0;
+  padding: 5px 0;
   background-color: antiquewhite;
+  width: 100%;
+  height: auto;
 }
 .record-calories {
   color: #012367;
   font-weight: bold;
 }
+
